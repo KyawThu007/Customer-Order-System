@@ -1,2 +1,4 @@
 Food
 Drink
+Fruit
+Snack
